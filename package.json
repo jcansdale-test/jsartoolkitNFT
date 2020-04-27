@@ -1,5 +1,5 @@
 {
-  "name": "@kalwalt/jsartoolkit-nft",
+  "name": "@jcansdale/jsartoolkit-nft",
   "version": "0.7.0",
   "main": "build/artoolkitNFT_wasm.js",
   "browser": "build/artoolkitNFT_wasm.js",
