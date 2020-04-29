@@ -1,5 +1,5 @@
 {
-  "name": "@jcansdale/jsartoolkitnft",
+  "name": "@jcansdale-test/jsartoolkitnft",
   "version": "0.7.0",
   "main": "build/artoolkitNFT_wasm.js",
   "browser": "build/artoolkitNFT_wasm.js",
@@ -23,7 +23,7 @@
     },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jcansdale/jsartoolkitnft"
+    "url": "https://github.com/jcansdale-test/jsartoolkitnft"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
